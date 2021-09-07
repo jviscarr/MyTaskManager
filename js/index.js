@@ -1,0 +1,1 @@
+/* javascript del index.html */
